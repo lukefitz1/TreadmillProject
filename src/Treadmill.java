@@ -42,7 +42,7 @@ public Treadmill()
 	super();
 	Container window1 = getContentPane();
 	window1.setLayout(null);
-	
+	//System.out.println("Hello world"):
 	//FONTS
 	f = new Font("Times New Roman", Font.BOLD, 24);
 
